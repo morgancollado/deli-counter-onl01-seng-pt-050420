@@ -9,7 +9,8 @@ def line(katz_deli)
       end 
   if katz_deli.size == 0
     puts "The line is currently empty."
+  else 
+    puts new_array.join(" ")
   end 
-  
-  
+
 end 
