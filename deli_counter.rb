@@ -12,5 +12,8 @@ def line(katz_deli)
   else 
     puts new_array.join(" ")
   end 
+end 
 
+def take_a_number(katz_deli)
+  
 end 
