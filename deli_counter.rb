@@ -1,5 +1,5 @@
 katz_deli = []
 
 def line(katz_deli)
-  puts ""
+  if katz_deli == 0
 end 
